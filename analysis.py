@@ -141,5 +141,5 @@ for i, row in df_output.iterrows():
 
                 
 # saving the output file
-df_output.to_excel('output.xlsx', index=False)
+df_output.to_csv('output.csv', index=False)
 print("output file saved")
