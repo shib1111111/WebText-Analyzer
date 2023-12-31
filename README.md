@@ -1,4 +1,4 @@
-# Text Analysis Tool
+# WebText Analyzer: Uncover Insights from Web Pages
 This project provides a text analysis tool that performs linguistic analysis on a collection of web pages. It includes sentiment analysis, readability metrics, and other derived variables. The tool reads web page URLs from an Input.xlsx file, fetches the content of each URL, and saves the title and descriptions of each page in separate text files. It then performs text analysis on these text files and saves the results in the **output.csv** file.
 
 ## Prerequisites
