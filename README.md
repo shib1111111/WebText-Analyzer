@@ -56,9 +56,9 @@ Make sure the following data files are present in the same directory as the code
 * The code will fetch the web page content, perform text analysis, and save the results in the **output.csv** file.
 * You can customize the code and parameters as per your requirements.
 * Refer to the code comments for detailed explanations of each step.
-  
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
+This project is licensed under the [MIT License](LICENSE).
 
 Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
 
