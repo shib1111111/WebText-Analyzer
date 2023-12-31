@@ -59,3 +59,7 @@ Make sure the following data files are present in the same directory as the code
   
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
+
+<em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
