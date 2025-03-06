@@ -130,11 +130,5 @@ This project is distributed under the [MIT License](LICENSE), offering flexibili
 
 ---
 
-## Contact and Support
-
-For questions, feedback, or assistance, feel free to reach out to the project creator. Contributions and suggestions are welcome to enhance the tool’s capabilities.
-
----
-
 *Designed and developed with passion by Shib Kumar Saraf*  
 *Empower your web content analysis with WebText Analyzer!*
